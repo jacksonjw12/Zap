@@ -1,3 +1,3 @@
 # Zap
-zap make
+zap make we are going to use /n
 https://cordova.apache.org/
